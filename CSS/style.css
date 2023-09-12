@@ -124,9 +124,6 @@ li {
         /* 200% */
         letter-spacing: 1.08px;
 }
-.images {
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-}
  
 /* footer-section */
 .footer {
