@@ -31,9 +31,10 @@ span:last-child {
         letter-spacing: 0.02em;
 }
 
-.link {
+.link{
     color: rgba(33, 33, 33, 1);
 }
+
 .link:hover, .link:focus {
     color: rgba(33, 150, 243, 1);
 }
@@ -70,7 +71,7 @@ span:last-child {
         /* 187.5% */
         letter-spacing: 0.96px;
 }
-.button-service:hover, .button-service:focus {
+.button-request-service:hover, .button-service:focus {
         background-color:rgb(21, 113, 189); 
         
 }
